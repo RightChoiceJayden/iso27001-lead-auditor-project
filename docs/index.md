@@ -1,3 +1,5 @@
+![Project Banner](assets/images/banner.svg)
+
 # ISO 27001 Lead Auditor Project (Simulation)
 
 **Goal:** Demonstrate lead-auditor competency end-to-end.

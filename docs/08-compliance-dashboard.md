@@ -1,3 +1,5 @@
+![Annex A to Automated Checks](assets/images/annex-checks.svg)
+
 # Continuous Compliance Dashboard
 
 ## Example Checks

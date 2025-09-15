@@ -12,3 +12,5 @@ Start here:
 - [Company Profile](01-company-profile.md)
 - [Audit Report](05-audit-report.md)
 - [Compliance Dashboard](08-compliance-dashboard.md)
+- 👉 [Annex A Checklist](09-annex-a-checklist.md)
+
